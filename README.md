@@ -1,2 +1,2 @@
 # mytestDemo
-testProject
+this is a test ios app project 
