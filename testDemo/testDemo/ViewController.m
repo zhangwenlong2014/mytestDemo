@@ -8,7 +8,6 @@
 
 #import "ViewController.h"
 
-#define whith 90
 @interface ViewController ()
 
 @end
@@ -17,7 +16,6 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    self.view.backgroundColor = [UIColor whiteColor];
     // Do any additional setup after loading the view, typically from a nib.
 }
 
