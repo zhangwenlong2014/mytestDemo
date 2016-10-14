@@ -7,7 +7,10 @@
 //
 
 #import <UIKit/UIKit.h>
-
+ typedef void(^backValue)(NSString *str);
 @interface aaController : UIViewController
+
+- (void)addsubView;
+
 
 @end
