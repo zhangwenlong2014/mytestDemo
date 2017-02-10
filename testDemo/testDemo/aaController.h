@@ -10,7 +10,7 @@
  typedef void(^backValue)(NSString *str);
 @interface aaController : UIViewController
 
-- (void)addsubView;
+- (void)addsubVijkjkew;
 
 
 @end
