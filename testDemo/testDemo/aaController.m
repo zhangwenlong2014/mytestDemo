@@ -24,6 +24,10 @@
     // Dispose of any resources that can be recreated.
 }
 
+
+- (void)addntwokr{
+    
+}
 /*
 #pragma mark - Navigation
 
