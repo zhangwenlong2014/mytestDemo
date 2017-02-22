@@ -15,6 +15,7 @@
 		A70894951DAE443A00E10581 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A70894931DAE443A00E10581 /* LaunchScreen.storyboard */; };
 		A70894A01DAE443A00E10581 /* testDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A708949F1DAE443A00E10581 /* testDemoTests.m */; };
 		A70894AB1DAE443A00E10581 /* testDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = A70894AA1DAE443A00E10581 /* testDemoUITests.m */; };
+		A78709AC1E5D7C9D009C8548 /* AddBugaiewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A78709AB1E5D7C9D009C8548 /* AddBugaiewController.m */; };
 		A7932D6D1DAE9AD300A75A8A /* aaController.m in Sources */ = {isa = PBXBuildFile; fileRef = A7932D6C1DAE9AD300A75A8A /* aaController.m */; };
 /* End PBXBuildFile section */
 
@@ -52,6 +53,8 @@
 		A70894A61DAE443A00E10581 /* testDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A70894AA1DAE443A00E10581 /* testDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = testDemoUITests.m; sourceTree = "<group>"; };
 		A70894AC1DAE443A00E10581 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A78709AA1E5D7C9D009C8548 /* AddBugaiewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AddBugaiewController.h; sourceTree = "<group>"; };
+		A78709AB1E5D7C9D009C8548 /* AddBugaiewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AddBugaiewController.m; sourceTree = "<group>"; };
 		A7932D6B1DAE9AD300A75A8A /* aaController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = aaController.h; sourceTree = "<group>"; };
 		A7932D6C1DAE9AD300A75A8A /* aaController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = aaController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -110,6 +113,8 @@
 				A708948C1DAE443A00E10581 /* ViewController.m */,
 				A7932D6B1DAE9AD300A75A8A /* aaController.h */,
 				A7932D6C1DAE9AD300A75A8A /* aaController.m */,
+				A78709AA1E5D7C9D009C8548 /* AddBugaiewController.h */,
+				A78709AB1E5D7C9D009C8548 /* AddBugaiewController.m */,
 				A708948E1DAE443A00E10581 /* Main.storyboard */,
 				A70894911DAE443A00E10581 /* Assets.xcassets */,
 				A70894931DAE443A00E10581 /* LaunchScreen.storyboard */,
@@ -279,6 +284,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A708948D1DAE443A00E10581 /* ViewController.m in Sources */,
+				A78709AC1E5D7C9D009C8548 /* AddBugaiewController.m in Sources */,
 				A708948A1DAE443A00E10581 /* AppDelegate.m in Sources */,
 				A70894871DAE443A00E10581 /* main.m in Sources */,
 				A7932D6D1DAE9AD300A75A8A /* aaController.m in Sources */,
